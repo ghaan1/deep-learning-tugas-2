@@ -1,0 +1,14 @@
+{
+    "original": {
+        "total": 35833,
+        "negative": 896,
+        "positive": 34937,
+        "imbalance_ratio": 38.9921875
+    },
+    "balanced": {
+        "total": 15000,
+        "negative": 6000,
+        "positive": 9000,
+        "imbalance_ratio": 1.5
+    }
+}
